@@ -1,6 +1,6 @@
-## HelloJava
-My Java Tools Code - Ralph Lee
+## HelloMaven
+Building Java Projects with Maven.
 
 ## Reference
-https://mp.weixin.qq.com/s/K6tMKJrTHsmGJ23C2eCmjQ
-https://spring.io/guides/gs/maven/
+[Building Java Projects with Maven -EN](https://spring.io/guides/gs/maven/)
+[Building Java Projects with Maven -CN](https://mp.weixin.qq.com/s/K6tMKJrTHsmGJ23C2eCmjQ)
